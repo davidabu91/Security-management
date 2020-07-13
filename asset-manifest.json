@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Security-management/static/css/main.85d78891.chunk.css",
+    "main.js": "/Security-management/static/js/main.15660a91.chunk.js",
+    "main.js.map": "/Security-management/static/js/main.15660a91.chunk.js.map",
+    "runtime-main.js": "/Security-management/static/js/runtime-main.0677e360.js",
+    "runtime-main.js.map": "/Security-management/static/js/runtime-main.0677e360.js.map",
+    "static/css/2.1417c86a.chunk.css": "/Security-management/static/css/2.1417c86a.chunk.css",
+    "static/js/2.be4b318e.chunk.js": "/Security-management/static/js/2.be4b318e.chunk.js",
+    "static/js/2.be4b318e.chunk.js.map": "/Security-management/static/js/2.be4b318e.chunk.js.map",
+    "index.html": "/Security-management/index.html",
+    "precache-manifest.3514fbf4b72e5f0243e0accb0d2ad90b.js": "/Security-management/precache-manifest.3514fbf4b72e5f0243e0accb0d2ad90b.js",
+    "service-worker.js": "/Security-management/service-worker.js",
+    "static/css/2.1417c86a.chunk.css.map": "/Security-management/static/css/2.1417c86a.chunk.css.map",
+    "static/css/main.85d78891.chunk.css.map": "/Security-management/static/css/main.85d78891.chunk.css.map",
+    "static/js/2.be4b318e.chunk.js.LICENSE.txt": "/Security-management/static/js/2.be4b318e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Security-management/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0677e360.js",
+    "static/css/2.1417c86a.chunk.css",
+    "static/js/2.be4b318e.chunk.js",
+    "static/css/main.85d78891.chunk.css",
+    "static/js/main.15660a91.chunk.js"
+  ]
+}
